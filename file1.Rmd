@@ -7,7 +7,12 @@ output: html_document
 
 # Data Types
 
+```{r}
+library(datasets)
 
+?cars
+?iris
+```
 
 ## Categorical
 

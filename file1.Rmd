@@ -9,18 +9,26 @@ output: html_document
 
 ```{r}
 library(datasets)
-
-
 ?cars
 ?iris
 ```
-
 ## Categorical
+
+Example:
+
 
 ## Numerical
 
+Example: 
+
 # Time Series Data
+
+Example: Stock prices, temperatures,
 
 # Spacial Data
 
+Example: Traffic
+
 # Time and Space
+
+Example: Traffic 
